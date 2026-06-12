@@ -190,7 +190,7 @@ function App() {
             <h3>µLearn Community - Active Member</h3>
             <p>
               Actively participated in peer-learning sessions, technical
-              discussions, and skill-based challenges. Earned 1000+ Karma Points
+              discussions, and skill-based challenges. Earned 4000+ Karma Points
               through learning activities and community tasks.
             </p>
           </div>
