@@ -95,8 +95,8 @@ function App() {
 
   <div className="hero-card">
     <FaLaptopCode className="hero-icon" />
-    <h2>Frontend Developer</h2>
-    <p>Building responsive and user-friendly websites</p>
+    <h2>Full Stack Developer</h2>
+    <p>Building complete web solutions with responsive frontend design and reliable backend systems</p>
   </div>
 </section>
 
